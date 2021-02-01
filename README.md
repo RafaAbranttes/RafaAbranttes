@@ -6,10 +6,10 @@ Sou formado em Ciência e Tecnologia ([UFERSA](https://ufersa.edu.br/)), estudo 
 
 ## ✅ Competências 
 
-<table align = "center" border = "0">
+<table align = "center" border = "none">
 
 <tr>
-<td>
+<td border = "none">
 
 <div > 
 
@@ -34,7 +34,7 @@ Sou formado em Ciência e Tecnologia ([UFERSA](https://ufersa.edu.br/)), estudo 
 
 
 
-<td>
+<td border = "none">
 
 <div> 
 
