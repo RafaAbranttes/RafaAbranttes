@@ -4,28 +4,49 @@ Sou formado em Ciência e Tecnologia ([UFERSA](https://ufersa.edu.br/)), estudo 
 
 <br>
 
-## Tecnologias
+## ✅ Competências 
 
-* Flutter
-* Dart
-* Java
-* Kotlin
-* JavaScript
-* HTML
-* CSS
-* Firebase
-* Arduino
-* MATLAB
-* C
-* Python
-* SQL
-* VHDL
+<table>
 
-#
+<tr>
+<td>
 
-<br>
-<div align = "center"> 
+<div > 
+
+✔️ Flutter<br>
+✔️ Dart<br>
+✔️ Java<br>
+✔️ Kotlin<br>
+✔️ JavaScript<br>
+✔️ HTML<br>
+✔️ CSS<br>
+✔️ Firebase<br>
+✔️ Arduino<br>
+✔️ MATLAB<br>
+✔️ C<br>
+✔️ Python<br>
+✔️ SQL<br>
+✔️ VHDL<br>
+  
+</div>  
+
+</td>
+
+<td> </td> 
+
+<td>
+
+<div> 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaAbranttes&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+</div>  
 
-</div> 
+</td>
+
+</tr>
+
+
+
+
+</table>
