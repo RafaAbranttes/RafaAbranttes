@@ -32,7 +32,7 @@ Sou formado em Ciência e Tecnologia ([UFERSA](https://ufersa.edu.br/)), estudo 
 
 </td>
 
-<td> </td> 
+
 
 <td>
 
