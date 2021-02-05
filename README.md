@@ -39,7 +39,7 @@ Sou formado em Ciência e Tecnologia ([UFERSA](https://ufersa.edu.br/)), estudo 
 <div> 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaAbranttes&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaAbranttes&count_private=true&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 </div>  
 
 </td>
