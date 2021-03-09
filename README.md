@@ -9,7 +9,7 @@ Sou formado em Ciência e Tecnologia ([UFERSA](https://ufersa.edu.br/)), estudo 
 <table align = "center" border = 0px>
 
 <tr>
-<td border = "none">
+<td border = 0px>
 
 <div > 
 
@@ -34,7 +34,7 @@ Sou formado em Ciência e Tecnologia ([UFERSA](https://ufersa.edu.br/)), estudo 
 
 
 
-<td border = "none">
+<td border = 0px>
 
 <div> 
 
