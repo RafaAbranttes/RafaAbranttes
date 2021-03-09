@@ -6,7 +6,7 @@ Sou formado em Ciência e Tecnologia ([UFERSA](https://ufersa.edu.br/)), estudo 
 
 ## ✅ Competências 
 
-<table align = "center" border = "">
+<table align = "center" border = 0px>
 
 <tr>
 <td border = "none">
