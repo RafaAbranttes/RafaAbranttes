@@ -20,6 +20,7 @@ Sou formado em Ciência e Tecnologia ([UFERSA](https://ufersa.edu.br/)), estudo 
 ✔️ JavaScript<br>
 ✔️ HTML<br>
 ✔️ CSS<br>
+✔️ React<br>
 ✔️ Firebase<br>
 ✔️ Arduino<br>
 ✔️ MATLAB<br>
