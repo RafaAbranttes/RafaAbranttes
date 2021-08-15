@@ -12,17 +12,17 @@
 </div>
 
 <div align="center"><br>
-  <img align="center" style="padding-bottom: 8px;" alt="Rafa-dart"src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img align="center"style="padding-bottom: 8px;" alt="Rafa-flutter"src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img align="center"style="padding-bottom: 8px;" alt="Rafa-mogodb"src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center"style="padding-bottom: 8px;" alt="Rafa-sql"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center"style="padding-bottom: 8px;" alt="Rafa-java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" style="padding-bottom: 8px;"alt="Rafa-c"src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center"style="padding-bottom: 8px;" alt="Rafa-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" style="padding-bottom: 8px;"alt="Rafa-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center"style="padding-bottom: 8px;" alt="Rafa-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center"style="padding-bottom: 8px;" alt="Rafa-python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" style="padding-bottom: 8px;"alt="Rafa-django"src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img align="center" style="padding-top: 10px;" alt="Rafa-dart"src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center"style="padding-top: 10px;" alt="Rafa-flutter"src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img align="center"style="padding-top: 10px;" alt="Rafa-mogodb"src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center"style="padding-top: 10px;" alt="Rafa-sql"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center"style="padding-top: 10px;" alt="Rafa-java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" style="padding-top: 10px;"alt="Rafa-c"src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center"style="padding-top: 10px;" alt="Rafa-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" style="padding-top: 10px;"alt="Rafa-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center"style="padding-top: 10px;" alt="Rafa-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center"style="padding-top: 10px;" alt="Rafa-python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" style="padding-top: 10px;"alt="Rafa-django"src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
 
 </div>
