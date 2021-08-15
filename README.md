@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaAbranttes&layout=compact&langs_count=7&theme=dark&count_private=true"/>
 </div>
 
-<div style="display: inline_block;" align="center"><br>
+<div align="center"><br>
   <img align="center" style="padding-bottom: 8px;" alt="Rafa-dart"src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center"style="padding-bottom: 8px;" alt="Rafa-flutter"src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center"style="padding-bottom: 8px;" alt="Rafa-mogodb"src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
