@@ -2,7 +2,7 @@
 
 - 🎓 Computer engineer ([UFERSA](https://ufersa.edu.br/))  
 - 🎓 Graduated in Science and Technology ([UFERSA](https://ufersa.edu.br/))
-- 🧑‍🎓 Post-graduate student in health informatics ([UFRN](https://www.ufrn.br/))
+- 🧑‍🎓 Post-graduate student in Multiplatform Mobile Application Projects ([Descomplica](https://descomplica.com.br/))
 
 <div align="center">
   <a href="https://github.com/RafaAbranttes">
