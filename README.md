@@ -23,5 +23,4 @@
   <img align="center"style="padding: 10px;" alt="Rafa-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center"style="padding: 10px;" alt="Rafa-python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" style="padding: 10px;"alt="Rafa-django"src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-
 </div>
