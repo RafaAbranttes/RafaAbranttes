@@ -9,7 +9,7 @@
   <a href="https://github.com/RafaAbranttes">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaAbranttes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <ls>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaAbranttes&layout=compact&langs_count=7&hide=python&theme=dark&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaAbranttes&layout=compact&langs_count=7&hide=python,c++&theme=dark&count_private=false"/>
 </div>
 
 <div align="center"><br>
