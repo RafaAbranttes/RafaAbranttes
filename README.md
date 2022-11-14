@@ -1,9 +1,9 @@
 # Hi, I'm Rafael Abrantes! <br> <br> [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/RafaAbranttes)](https://github.com/RafaAbranttes) <ls> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-a-186b681a1/)](https://www.linkedin.com/in/rafael-a-186b681a1/) <ls> [![Linkedin Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://www.linkedin.com/in/rafael-a-186b681a1/)](https://gitlab.com/rafaAbranttes)
 
-- 🎓 Computer engineer ([UFERSA](https://ufersa.edu.br/))  
-- 🎓 Graduated in Science and Technology ([UFERSA](https://ufersa.edu.br/))
-- 🧑‍🎓 Post-graduate student in Multiplatform Mobile Application Projects ([Descomplica](https://descomplica.com.br/))
-- 🧑‍🎓 MBA Student in Strategic Project Management and Agile Methodologies ([Descomplica](https://descomplica.com.br/))
+- 🎓 Computer engineer 
+- 🎓 Graduated in Science and Technology
+- 🧑‍🎓 Post-graduate student in Multiplatform Mobile Application Projects
+- 🧑‍🎓 MBA Student in Strategic Project Management and Agile Methodologies 
 
 <div align="center">
   <a href="https://github.com/RafaAbranttes">
