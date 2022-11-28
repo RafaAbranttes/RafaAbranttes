@@ -2,7 +2,7 @@
 
 - 🎓 Computer engineer 
 - 🎓 Graduated in Science and Technology
-- 🧑‍🎓 Post-graduate student in Multiplatform Mobile Application Projects
+- 🧑‍🎓 Graduate student in Multiplatform Mobile Application Projects
 - 🧑‍🎓 MBA Student in Strategic Project Management and Agile Methodologies 
 
 <div align="center">
