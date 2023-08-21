@@ -2,7 +2,7 @@
 
 - 🎓 Computer engineer 
 - 🎓 Graduated in Science and Technology
-- 🧑‍🎓 Graduate student in Multiplatform Mobile Application Projects
+- 🧑‍🎓 Graduate course in Multiplatform Mobile Application Projects
 
 <div align="center">
   <a href="https://github.com/RafaAbranttes">
