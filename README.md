@@ -2,7 +2,7 @@
 
 - 🎓 Computer engineer 
 - 🎓 Graduated in Science and Technology
-- 🧑‍🎓 Graduate course in Multiplatform Mobile Application Projects
+- 🎓 Graduate course in Multiplatform Mobile Application Projects
 - 🧑‍🎓 Graduate student in software engineering
 - 🧑‍🎓 MBA Student in Information Security
 
