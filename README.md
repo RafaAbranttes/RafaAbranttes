@@ -3,6 +3,8 @@
 - 🎓 Computer engineer 
 - 🎓 Graduated in Science and Technology
 - 🧑‍🎓 Graduate course in Multiplatform Mobile Application Projects
+- 🧑‍🎓 Graduate student in software engineering
+- 🧑‍🎓 MBA Student in Information Security
 
 <div align="center">
   <a href="https://github.com/RafaAbranttes">
