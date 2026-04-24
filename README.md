@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-🚀 Desenvolvedor Sênior SAP &nbsp;|&nbsp; ☁️ SAP BTP · CPI · C4C · CAP &nbsp;|&nbsp; 📱 Flutter Tech Lead
+🚀 Desenvolvedor Sênior SAP &nbsp;|&nbsp; ☁️ SAP BTP · CPI · C4C · CAP &nbsp;|&nbsp; 📱 Flutter
 
 🎓 Engenheiro de Computação &nbsp;·&nbsp; MBA em IA &nbsp;·&nbsp; Data Science &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Segurança da Informação
 
