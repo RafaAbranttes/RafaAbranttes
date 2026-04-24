@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Rafael Vieira Abrantes</h1>
+<h1>Rafael Abrantes</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=0FAAFF&center=true&vCenter=true&width=660&lines=SAP+BTP+%7C+CPI+%7C+C4C+%7C+CAP+%7C+SAPUI5%2FFiori;iFlow+design+%C2%B7+ABSL+%C2%B7+Python+%C2%B7+Flutter;From+mobile+roots+to+enterprise+SAP+solutions)](https://git.io/typing-svg)
 
